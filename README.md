@@ -13,8 +13,12 @@ CoMo DBM requires 1) gene list in txt file format (one gene per line) 2) phenoty
 
 ```
 Required Packages:
+
+install.packages("httr")
 library("httr")
+install.packages('jsonlite', repos = c('https://jeroen.r-universe.dev', 'https://cloud.r-project.org'))
 library("jsonlite")
+install.packages("gprofiler2")
 library("gprofiler2")
 
 Required files: 
