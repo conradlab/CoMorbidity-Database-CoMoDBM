@@ -12,6 +12,11 @@ CoMo DBM requires 1) gene list in txt file format (one gene per line) 2) phenoty
 
 
 ```
+Required Packages:
+library("httr")
+library("jsonlite")
+library("gprofiler2")
+
 Required files: 
 ├── mouse_mgi.txt                     # List of mouse NOA genes
 ├── fertility_categories/            # Folder containing phenotype ontology terms used in "reproduction" MCat
