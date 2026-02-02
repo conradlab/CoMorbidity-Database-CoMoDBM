@@ -3,7 +3,7 @@
 ## CoMoDB
 This repository contains code and files for our article in preparation in GENETICS (Peaslee et al, 2026).
 
-CoMo DBM is an RStudio analysis pipeline that uses an input gene list to collect and tally phenotypes per biological system across five organisms (human, mouse, zebrafish, fruit fly, and roundworm) from a ![MARRVEL API](marrvel.org).
+CoMo DBM is an RStudio analysis pipeline that uses an input gene list to collect and tally phenotypes per biological system across five organisms (human, mouse, zebrafish, fruit fly, and roundworm) from the [MARRVEL API](https://marrvel.org/doc).
 
 ## Analysis Instructions
 
@@ -43,7 +43,7 @@ MARRVEL_COMO_DB.R should be opened with R Studio, and input files should be load
 Output file "big.out" is used for downstream analysis of phenotypes per gene, per species. 
 
 ## Contact us
-![Conrad Lab Website](conradlab.org)
+[Conrad Lab Website](conradlab.org)
 
 Caitlin Peaslee (peasleec@ohsu.edu)
 Don Conrad (conradon@ohsu.edu)
