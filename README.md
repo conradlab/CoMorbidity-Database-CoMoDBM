@@ -43,7 +43,7 @@ MARRVEL_COMO_DB.R should be opened with R Studio, and input files should be load
 Output file "big.out" is used for downstream analysis of phenotypes per gene, per species. 
 
 ## Contact us
-[Conrad Lab Website](conradlab.org)
+[Conrad Lab Website](http://conradlab.org)
 
 Caitlin Peaslee (peasleec@ohsu.edu)
 Don Conrad (conradon@ohsu.edu)
